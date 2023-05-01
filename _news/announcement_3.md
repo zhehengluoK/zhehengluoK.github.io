@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-06 07:59:00-0400
+date: 2023-01-01 07:59:00-0400
 inline: true
 ---
 
-Our paper "Readability Controllable Biomedical Documents Summarization" has been accepted to the Findings of EMNLP 2022!
+Our shared task "BioLaySummarization" would be held at BioNLP, ACL 2023!
