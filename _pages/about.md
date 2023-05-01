@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Zheheng, a second-year PhD student doing Natural Language Processing at the University of Manchester. Fortunate to be supervised by [Prof.Sophia Ananiadou](https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html) and [Prof.Jun'ichi Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii), I am currently working on text summarization and topic modelling. My long-term goal would be to participate in building machines that can naturally interact with humans.
+Welcome! I am Zheheng, a second-year PhD student doing Natural Language Processing at the University of Manchester. Fortunate to be supervised by [Prof.Sophia Ananiadou](https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html) and [Prof.Jun'ichi Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii), I am currently working on text summarization and topic modelling. My long-term goal would be to participate in building general intelligent agents.
 
-I am seeking internships for applied NLP research, drop me an email if you're interested!
+I am seeking internships for NLP research, projects involving LLM(including reasoning, tool-using, and explainability) will be ideal, drop me an email if you're interested!
